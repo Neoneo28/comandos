@@ -22,5 +22,13 @@
 
 **git add ..... =** **_Adiciona um arquivo específico ao Git dependendo do nome que acompanha o git add_**  
 
+**git remote add origin https://github.com/Neoneo28/.......git =** _**Puja o repositório criado para o link do GitHub**_
+
+**git commit -m "adiciona ......" =** _**Adiciona o repositório ao link do GitHub**_
+
+**git push origin master =** _**Puja o Git local para o GitHub **_
+
+
+
 # _No momento são os comandos que sei manipular por enquanto_, adicionarei mais comandos com o tempo _.........._
 
