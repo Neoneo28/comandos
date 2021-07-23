@@ -52,7 +52,11 @@
 
 **echo '.........' | openssl sha1 =** _**Apresentara o**_ **{sha1}** _**do arquivo informado**_   
 
- **echo -e 'blob 9\0.......' | openssl sha1 =**  _**Apresentara o**_ **{sha1}** _**do arquivo informado**_   
+ **echo -e 'blob 9\0.......' | openssl sha1 =**  _**Apresentara o**_ **{sha1}** _**do arquivo informado**_ 
+
+**git config --global user.email "fakihallouche@gmail.com" =** _**Informações necessária para conectar nosso Git local ao nosso GitHub **_ 
+
+**git config --global user.name "Neoneo28" =** _**Informações necessária para conectar nosso Git local ao nosso GitHub **_    
 
 **git init =** _**Inicializa o Git criando uma pasta oculta .git**_      
 
@@ -70,7 +74,13 @@
 
 **git push origin master =** _**Puja o Git local para o GitHub **_
 
+**git config --list = ** **Usamos esse comando para saber se as configurações do Git Local é igual ou diferente ao nosso GitHub **
 
+**git config --global --unset user.email =** _**Caso as informações estiver diferente ou queremos mudar**_
+
+**git config --global --unset user.name =** _**Caso as informações estiver diferente ou queremos mudar**_
+
+ 
 
 # _No momento são os comandos que sei manipular por enquanto_, adicionarei mais comandos com o tempo _.........._
 
