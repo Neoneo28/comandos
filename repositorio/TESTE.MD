@@ -62,11 +62,11 @@
 
 **ls -a =** _**Mostra  a pasta oculta .git**_    
 
-**git add  =** _**Adiciona todos arquivos modificado pro Git reconhecer**_
+**git add *  =** _**Adiciona todos arquivos modificado pro Git reconhecer**_
 
 **git add ..... =** **_Adiciona um arquivo específico ao Git dependendo do nome que acompanha o git add_**  
 
-**git commit -m "adiciona ......" =** _**Adiciona o repositório ao link do GitHub**_
+**git commit -m "......" =** _**Adiciona o repositório ao link do GitHub**_
 
 **git status =** _**Mostra o status dos arquivos dentro do repositório**_ 
 
